@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+COVID has been terrible, cant wait until its over!
 Use the left arrow to go back!
